@@ -1,4 +1,4 @@
-# 🚀 Build Your First AI Web App Workshop
+# 🚀 Build Your First AI Agent Web App Workshop
 
 ## Welcome, Future Developers! 👋
 
